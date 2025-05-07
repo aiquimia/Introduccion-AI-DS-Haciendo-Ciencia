@@ -1,1 +1,1 @@
-# Recomendaciones para los proyectos finales
+# Sugerencias para los proyectos finales
